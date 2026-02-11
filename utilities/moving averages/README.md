@@ -1,6 +1,6 @@
 # Moving Averages (MAs)
 
-  **Moving Averages** are a form of __momentum index__ in the sense that they do not add new information to an
+  **Moving Averages** are a form of _momentum index_ in the sense that they do not add new information to an
   analysis, just present data in a different form. In the case of moving averages, they reduce the noise from
   short-term oscillations and help give up a better understanding of an underlying trend (if any). There are
   several uses of moving averages namely:
@@ -25,5 +25,5 @@
   - MAs are especially useful in markets that have a tendency to trend
     
   - In a nutshell, a moving average is just one number that represents a net of certain past numbers (prices). As
-  such, it filters out each one of the prices during the past say 20 days and tells us how the __group__ of 20 days
+  such, it filters out each one of the prices during the past say 20 days and tells us how the _group_ of 20 days
   is behaving, rather than its separate parts. Remeber they are Moving **AVERAGES**
